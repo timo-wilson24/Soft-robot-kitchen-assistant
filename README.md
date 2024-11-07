@@ -9,10 +9,9 @@ The project addresses the challenge of food preparation for individuals with fin
 - Young Scientist - Chopping Board Assistant Video: https://youtu.be/AkrwtVQIluE?si=esvOkE4GFkxM-J67
 
 ## Research Documentation
-Research documentation has been formally published to the Harvard Soft Robotics Toolkit website and this repository. 
-[test](Research Documentation/)
-[AUSSEF Research Documentation](/Research Documentation/Research Documentation/AUSSEF Submission - chopping board innovation.pdf)
-[SRT Competition Documentation](Research Documentation/Soft robotic kitchen assistant - SRT Submission.pdf)
+[Research documentation](Research%20Documentation/) has been formally published to the Harvard Soft Robotics Toolkit website and this repository. 
+[AUSSEF Research Documentation](/Research%20Documentation/Research%20Documentation/AUSSEF%20Submission%20-%20chopping%20board%20innovation.pdf)
+[SRT Competition Documentation](Research%20Documentation/Soft%20robotic%20kitchen%20assistant%20-%20SRT%20Submission.pdf)
 
 ## Competition Results
 - 1st place in the College Category for the Harvard Soft Robotics Competition 2023: https://softroboticstoolkit.com/competitions/2023#
