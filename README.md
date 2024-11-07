@@ -17,4 +17,4 @@ and
 ## Competition Results
 - 1st place in the College Category for the [Harvard Soft Robotics Competition 2023](https://softroboticstoolkit.com/competitions/2023#)
 - 3rd place in the Technological Innovations Y11-12 Category at the [STANSW Young Scienist Awards 2023](https://viewer.joomag.com/2023-stansw-ysa-presentation-ceremony-booklet/0514268001701144660/p31)
-- 2nd Place AARNet Use of Technology Awards - Secondary ([at the STANSW Young Scientist Awards 2023](https://viewer.joomag.com/2023-stansw-ysa-presentation-ceremony-booklet/0514268001701144660/p41))
+- 2nd Place AARNet Use of Technology Award - Secondary ([at the STANSW Young Scientist Awards 2023](https://viewer.joomag.com/2023-stansw-ysa-presentation-ceremony-booklet/0514268001701144660/p41))
