@@ -12,7 +12,6 @@ The project addresses the challenge of food preparation for individuals with fin
 [Research documentation](Research%20Documentation/) has been formally published to the Harvard Soft Robotics Toolkit website and this repository. See
 [AUSSEF Research Documentation](/Research%20Documentation/Research%20Documentation/AUSSEF%20Submission%20-%20chopping%20board%20innovation.pdf)
 and
-
 [SRT Competition Documentation](Research%20Documentation/Soft%20robotic%20kitchen%20assistant%20-%20SRT%20Submission.pdf)
 
 ## Competition Results
